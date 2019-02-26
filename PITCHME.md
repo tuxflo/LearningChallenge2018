@@ -7,6 +7,12 @@
 <span class="byline lowernote">[ Miguel Alho, DevOpsPorto Meetup, December 12th 2017 ]</span>
 
 ---
+<section>
+        <iframe data-src="http://localhost:8080" 
+          width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" 
+          scrolling="no" style="margin-bottom:5px; max-width:
+          100%;" allowfullscreen=""></iframe>
+</section>
 <img src="assets/about/3d-machine-vision-vertical-2.jpg" class="faroImage"/>
 <img src="assets/about/faro.png" class="faroImage" />
 <img src="assets/about/factory-metrology-vertical-2.jpg" class="faroImage"/>

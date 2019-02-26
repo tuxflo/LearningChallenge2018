@@ -1,4 +1,4 @@
 logo : assets/logos/devopsporto_80_white.png
 footnote : "committance - Vorstellung Xtext Framework"
 theme: league
-theme-override : league.css
+theme-override : custom.css
